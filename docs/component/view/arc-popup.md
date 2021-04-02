@@ -53,7 +53,7 @@ title: 弧形滚动弹出层 ArcPopup
 ```wxml
 <l-arc-popup show="{{true}}" arc-radius="50">
   设置组件弧度
-</l--arc-popup>
+</l-arc-popup>
 ```
 :::img
 ![height=300](/screenshots/arc-popup/3.png)
